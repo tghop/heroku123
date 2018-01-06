@@ -32,4 +32,4 @@ if(message.content === "Help") {
 
 });
 
-client.login("Mzk3MjE5OTAxNTU2NjU0MDgw.DSs6dQ.MeBaccWdB7396RxbBK_ACJb8EDU");
+client.login(process.env.Mzk3MjE5OTAxNTU2NjU0MDgw.DSs6dQ.MeBaccWdB7396RxbBK_ACJb8EDU);
